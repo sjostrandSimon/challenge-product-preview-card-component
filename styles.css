@@ -39,6 +39,7 @@ body {
   margin-bottom: 20px;
   letter-spacing: 4px;
   color: hsl(228, 12%, 48%);
+  text-transform: uppercase;
 }
 
 .title {
